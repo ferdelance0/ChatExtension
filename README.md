@@ -34,3 +34,4 @@ If you'd like, I can:
 - Add a settings input to configure host/port and admin token
 - Add nicer message formatting and streaming answers
 - Make the extension resilient to CORS by adding optional proxying or adjusting server CORS
+"# ChatExtension" 
